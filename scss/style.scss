@@ -45,6 +45,13 @@ $dark-overlay: rgba(0, 0, 0, 0.7);
     text-align: center;
     color: white;
 }
+#donate {
+    position: relative;
+    background: url('../img/donate1.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+}
 
 .dark-overlay {
     background-color: $dark-overlay;

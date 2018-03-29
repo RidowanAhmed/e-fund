@@ -1,4 +1,5 @@
 $(function() {
+  new WOW().init();
   // Auto play modal video
   $(".video").click(function() {
     var theModal = $(this).data("target"),
